@@ -12,6 +12,6 @@ Telegram [bot](https://t.me/TheMindBuddyBot) <bot-intro>
   
   ## Screenshots
 
-![](screenshots/001.png)
+![](screenshots/001.png.png)
 ![](screenshots/002.png)
 ![](screenshots/003.png)
