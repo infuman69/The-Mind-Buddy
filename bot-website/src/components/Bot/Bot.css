@@ -1,0 +1,43 @@
+#bot {
+    position: relative;
+}
+
+.bot-left{
+    display: block;
+    width: 50%;
+}
+.container-bot{
+    background-color: #a8c2e4;
+}
+.link-txt{
+    width: 50%;
+    float: right;
+    margin-top: -400px;
+    font-size: 4.5rem;
+    margin-right: 40px;
+}
+.link{
+    width: 300px;
+    height: 50px;
+    float: right;
+    margin-right: 450px;
+    margin-top: -200px;
+   
+
+}
+.linkb{
+    border-radius: 20px;
+    width:450px;
+    height: 60px;
+    font-weight: 100;
+    font-size: 1.5rem;
+    background-color: #4030E8;
+    color: white;
+    border: none;
+}
+.tel{
+    width: 40px;
+    height: 40px;
+    /* margin-left: 450px;
+    margin-top: -200px; */
+}
