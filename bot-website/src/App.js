@@ -1,9 +1,14 @@
 import './App.css';
+import Navbar from './components/Navbar/Navbar';
+import Header from './components/Header/Header';
+import Bot from './components/Bot/Bot'
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <Navbar/>
+      <Header/>
+      <Bot/>
     </div>
   );
 }
