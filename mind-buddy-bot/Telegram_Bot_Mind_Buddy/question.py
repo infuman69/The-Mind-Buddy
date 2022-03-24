@@ -4,7 +4,7 @@ HARS_QUESTIONS = {
         "questions": [
             "Anxious. Worries, anticipation of the worst, fearful anticipation, irritability",
             "Tension. Feelings of tension, fatigability, startle response, moved to tears easily, trembling, feelings of restlessness, inability to relax",
-            "Fears. Of dark, of strangers, of being left alone, of animals, of traffic, of crowds",
+            "Fears. Of dark, of strangers, of being left alone, of animals, of traffic, of crowds", 
             "Insomnia. Difficulty in falling asleep, broken sleep, unsatisfying sleep and fatigue on waking, dreams, nightmares, night-terrors",
             "Intellectual. Difficulty in concentration, poor memory",
             "Depressed mood. Loss of interest, lack of pleasure in hobbies, depression, early waking, diurnal swing",
