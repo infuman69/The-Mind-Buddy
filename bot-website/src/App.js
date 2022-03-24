@@ -1,10 +1,12 @@
 import './App.css';
+import Features from './Components/Feature/Features';
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello</h1>
-    </div>
+   <div>
+     <Features/>
+   </div>
   );
 }
 
