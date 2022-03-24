@@ -1,12 +1,18 @@
 import './App.css';
-import Features from './Components/Feature/Features';
-
+import Navbar from './components/Navbar/Navbar';
+import Header from './components/Header/Header';
+import Bot from './components/Bot/Bot'
+import Features from './components/Feature/Features';
 
 function App() {
   return (
-   <div>
-     <Features/>
-   </div>
+    <div className="App">
+      <Navbar/>
+      <Header/>
+      <Bot/>
+      <Features/>
+    </div>
+
   );
 }
 
