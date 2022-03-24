@@ -22,9 +22,11 @@ MIND BUDDY [bot](https://t.me/TheMindBuddyBot) a personal chatbot made for teleg
                Mind-Buddy  will suggest ideas to engage them, learn and get                   
                motivated for different types of activities.
     
-    > When one has severe mental issues, unhealed traumas that                       
-               makes one feel burnt out, 
-               Mind buddy consults psychologist appointments with or                                                                                                                  without parental concern so that one can heal quickly.    
+    > When one has severe mental issues, unhealed traumas that                                                                                                                          makes one feel burnt out, Mind buddy consults psychologist appointments with or                                                                                             without parental concern so that one can heal quickly.   
+    
+    >  If the patient feels suicidal or self harming,                                 
+               mind-buddy will inform police and update nearby people                         
+               who are close to the user in order to prevent the mishap. 
     
   ## Screenshots
 
