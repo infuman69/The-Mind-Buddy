@@ -10,7 +10,7 @@ MIND BUDDY [bot](https://t.me/TheMindBuddyBot), a personal chatbot made for tele
 even in your darkest hour !!
 
 https://mindbuddy.netlify.app/
-
+https://youtu.be/_MN84Nq_FwA
 
 
   ## Supported tests:
