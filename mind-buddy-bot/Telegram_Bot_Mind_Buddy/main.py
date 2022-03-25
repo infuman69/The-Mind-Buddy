@@ -15,7 +15,7 @@ def help_command(update, context):
     update.message.reply_text('If you need help, you should ask for it!')
 
 def assess_command(update, context):
-    update.message.reply_text("We are starting the assessment now! Type 'Yes' to proceed.")
+    update.message.reply_text("We are starting the assessment now! Type 'yes' to proceed.")
 
 def handle_message(update, context):
     text = str(update.message.text).lower()
