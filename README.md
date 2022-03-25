@@ -10,7 +10,8 @@ MIND BUDDY [bot](https://t.me/TheMindBuddyBot), a personal chatbot made for tele
 even in your darkest hour !!
 
 https://mindbuddy.netlify.app/
-https://youtu.be/_MN84Nq_FwA
+-  https://youtu.be/_MN84Nq_FwA
+
 
 
   ## Supported tests:
@@ -19,7 +20,7 @@ https://youtu.be/_MN84Nq_FwA
  - [Montgomery–Åsberg Depression Rating Scale](https://en.wikipedia.org/wiki/Montgomery%E2%80%93%C3%85sberg_Depression_Rating_Scale)
  
 - Special Inclusion - Real-Time Help
-  
+
   ## Features
     > Mind Buddy Helps one with their mental health management.                         
                When one just feels low or has a mood crash,                                   
