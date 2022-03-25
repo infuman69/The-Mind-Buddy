@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+#footer{
+    width:100%;
+    height:15vh;
+    margin:0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color:white
+
+}
+.footerCent{
+    width:80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footerCent .footlinks{
+    width:20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+.footerCent .footlinks li , .footerCent .contactsites{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 3px 7px;
+    border-radius: 4px;
+    text-align: center;
+}
+.footerCent .footlinks li:hover {
+    cursor :pointer;
+    background-color: white;
+    color:black;
+
+}
+.footerCent .contactsites{
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style:none;
+}
+.footerCent .logo h2{
+    font-family: 'Lobster', cursive;
+}

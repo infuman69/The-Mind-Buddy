@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Header from "./components/Header/Header";
 import Bot from "./components/Bot/Bot";
 import Features from "./components/Feature/Features";
+import Footer from './components/Footer/Footer'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Header />
         <Bot />
         <Features />
+        <Footer/>
       </div>
     </Router>
   );
