@@ -1,10 +1,7 @@
 import React, { useState } from "react";
 import { AiOutlineBars } from "react-icons/ai";
 import { RiCloseLine } from "react-icons/ri";
-import { SiAnaconda } from "react-icons/si";
-import logo from '../../assets/logo.png'
-// import Button from "../UI/Button/Button";
-// import "../UI/Button/button.css";
+import logo from "../../assets/logo.png";
 
 import "./navbar.css";
 
@@ -17,11 +14,8 @@ const Navbar = () => {
   return (
     <nav className="navbar container">
       <div className="logo">
-    
-        <img className="logo-img" src={logo}/>
+        <img className="logo-img" src={logo} />
 
-          {/* <span>X</span> */}
-   
       </div>
       <menu>
         <ul
@@ -32,10 +26,10 @@ const Navbar = () => {
             <a href="#">Home</a>
           </li>
           <li>
-            <a href="#features">Bot</a>
+            <a href="#bot">Bot</a>
           </li>
           <li>
-            <a href="#download">Features</a>
+            <a href="#feature">Features</a>
           </li>
 
           {/* <li>
@@ -43,7 +37,6 @@ const Navbar = () => {
               Get Started
             </a>
           </li> */}
-         
         </ul>
       </menu>
       <div className="menu-icons" onClick={toggleMenu}>
