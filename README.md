@@ -9,6 +9,9 @@ one can count on 24/7 for 365 days!
 MIND BUDDY [bot](https://t.me/TheMindBuddyBot), a personal chatbot made for telegram users around the world, that is always be there to listen to you, 
 even in your darkest hour !!
 
+https://mindbuddy.netlify.app/
+
+
 
   ## Supported tests:
 
@@ -33,4 +36,4 @@ even in your darkest hour !!
 
 ![](screenshots/001.png.png)
 ![](screenshots/002.png.png)
-![](screenshots/003.png)
+![](screenshots/website.jpeg)
