@@ -6,7 +6,8 @@ the feeling of being trapped alone, leading to depression, anxiety, stress, frus
 We, here at Mind Buddy, heard those cries of help and decided to come up with a friend, whom 
 one can count on 24/7 for 365 days! 
 
-MIND BUDDY [bot](https://t.me/TheMindBuddyBot) a personal chatbot made for telegram users around the world that would always be there to listen to you, even in your darkest hour!
+MIND BUDDY [bot](https://t.me/TheMindBuddyBot), a personal chatbot made for telegram users around the world, that is always be there to listen to you, 
+even in your darkest hour !!
 
 
   ## Supported tests:
