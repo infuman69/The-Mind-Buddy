@@ -21,7 +21,7 @@ const Header = () => {
             by bots.bdjoewfbo ebfiwqbf e fwefewfniwoenfiownfionwoifnoinlkml mn
           </p>
           <div className="header-cta">
-            <Button text={"Get Started"} className='btn' href={"#"} />
+            <Button text={"Get Started"}  className='btn' href={"https://t.me/TheMindBuddyBot"} />
           </div>
         </div>
         <div className="header-right" >

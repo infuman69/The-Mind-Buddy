@@ -13,8 +13,10 @@
     width: 50%;
     float: right;
     margin-top: -400px;
-    font-size: 4.5rem;
-    margin-right: 40px;
+    font-size: 3rem;
+    margin-right: 50px;
+    font-family:'Courier New', Courier, monospace;
+    word-spacing: 1;
 }
 .link{
     width: 300px;
@@ -27,17 +29,22 @@
 }
 .linkb{
     border-radius: 20px;
-    width:450px;
+    width:400px;
     height: 60px;
     font-weight: 100;
     font-size: 1.5rem;
     background-color: #4030E8;
     color: white;
     border: none;
+    word-spacing: 20px;
+    margin-top: -200px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+
 }
 .tel{
     width: 40px;
     height: 40px;
-    /* margin-left: 450px;
-    margin-top: -200px; */
+    margin-left: 450px;
+    margin-top: -200px;
 }
